@@ -1,6 +1,6 @@
-12421ba6e7d15d8d2cd5733c302b56a0 *DESCRIPTION
+de4bdef132490127ab73afc436dc588d *DESCRIPTION
 b89d790fa23686b9a5752ed13c10c682 *NAMESPACE
-2b2aa8e53453266278efd52fa6dffc1e *NEWS.md
+a97e07b75aa81fdf916470a6846a363d *NEWS.md
 dce5b0a9cfb3bec3f4a6919fe80b246c *R/RcppExports.R
 04f25162dd54af511eae06827a196ea2 *R/apcf-package.R
 87c73b01a87c581cd2ab315dcd4d71c0 *R/dists.R
@@ -11,15 +11,15 @@ c101a22c5835ca395c2b45dfe452630b *R/fv_pcf.R
 a912cdbc1593cabeddded511ce5edf12 *R/pat2dists.R
 0a36b0314c76eb65a54efc80cd7ec94e *R/plot.fv_pcf.R
 b7a6d1cf173310d6eaa9b15f5f9f5041 *README.md
-b4bfaf32ddfded98b941477191e39833 *build/partial.rdb
-e0997181c3e6536b95261607f7925eb1 *build/vignette.rds
+156a08a70bef8e0b5248a2986807ce7e *build/partial.rdb
+6e724f5bee737d9d5edb299ca6338474 *build/vignette.rds
 54525d483018f935ceffe6b23966747b *cleanup
-57fefe52703125dbc7daa367448df5ee *configure
-7a68194ab95744a6c47af4f5f0267878 *configure.ac
+0bb90625e4927e61785d7f8645ea1889 *configure
+25d7ee78dfa39d1ebfef4b7fa3ca2d06 *configure.ac
 b7e7c4913884f0840399c4bb368c6228 *inst/CITATION
 f9dac02898d3dba132761bf6d0839dcf *inst/doc/intro.R
-f5576b2322e437b2956fb63365767bda *inst/doc/intro.Rmd
-fe2910ae5a3c71a841b3aab319f421aa *inst/doc/intro.html
+69509a8ba811efa79532660b283b6c7f *inst/doc/intro.Rmd
+7691ed85a1e6a85e8d49433aaa2ed2b2 *inst/doc/intro.html
 c3e11bbf50f419487d85fd4a8322962b *inst/shapes/sim_area.dbf
 b6dbc7617e2677edb641f0be7256c9b6 *inst/shapes/sim_area.prj
 41b33d74e712ad65f391f17ab55ffad5 *inst/shapes/sim_area.shp
@@ -42,7 +42,7 @@ e04f6b2c53f6cfafdd860f6fb972a731 *man/dists2pcf.Rd
 eae90fefa4c846151490ba4d3e9c6765 *man/fv_pcf.Rd
 042136f582e7ee8466964ddd59fa3fa2 *man/pat2dists.Rd
 e4f9ca0c38a7252092141ce08c6bddba *man/plot.fv_pcf.Rd
-9de4ab237604c8bf40e0ae69385ed210 *man/sim_patterns.Rd
+dd94e028f534adbd793d975be3c5ad19 *man/sim_patterns.Rd
 adc2fba1a7a36b617329645392cf6777 *src/Makevars.in
 6ded31a9a45030fe800d3e85ad0dd40c *src/Makevars.win
 f820fd5a09fa401f62a5783cacfb66fb *src/RcppExports.cpp
@@ -53,5 +53,5 @@ d603d0fe08f094ab69dfebdacc44e405 *src/import_export.cpp
 425af18bd4ebad462fbc31c53d070342 *src/pcf_envelope.cpp
 bf705143bc3e30d741188c78c2baf64f *src/rand_dists_ratios.cpp
 23689334fbf155a6cb1dfda4ff3eaa8d *tools/winlibs.R
-f5576b2322e437b2956fb63365767bda *vignettes/intro.Rmd
+69509a8ba811efa79532660b283b6c7f *vignettes/intro.Rmd
 d06e240619fb79a9253088cf96cac3ac *vignettes/simulated_patterns.png

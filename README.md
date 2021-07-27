@@ -1,6 +1,6 @@
 ## apcf: Adapted Pair Correlation Function
 
-[![Travis-CI Build Status](https://travis-ci.org/rnuske/apcf.svg?branch=master)](https://travis-ci.org/rnuske/apcf) 
+[![Travis-CI Build Status](https://travis-ci.com/rnuske/apcf.svg?branch=master)](https://travis-ci.com/rnuske/apcf) 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/rnuske/apcf?branch=master&svg=true)](https://ci.appveyor.com/project/rnuske/apcf) 
 [![Drone.io Status](https://cloud.drone.io/api/badges/rnuske/apcf/status.svg)](https://cloud.drone.io/rnuske/apcf) 
 [![Package-License](https://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0.html) 
@@ -51,10 +51,10 @@ plot(x=pcf, xlim=c(0, 20), ylim=c(0, 2.2))
 
 
 ### Links
-* [GEOS](https://trac.osgeo.org/geos/)
-* [GDAL/OGR Website](https://www.gdal.org/)
+* [GEOS](https://trac.osgeo.org/geos)
+* [GDAL/OGR Website](https://gdal.org)
 * [GDAL/OGR Github Repository](https://github.com/OSGeo/gdal)
-* [Rcpp Website](http://www.rcpp.org/)
+* [Rcpp Website](http://www.rcpp.org)
 * [Rcpp Github Repository](https://github.com/RcppCore/Rcpp)
 * [R package `sf`, a modern approach to geo data in R](https://github.com/r-spatial/sf)
 

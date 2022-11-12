@@ -1,6 +1,6 @@
-116302f84b5a4eb57c0ffba1dda45292 *DESCRIPTION
+92881af8bf9641cfa178013294e9209e *DESCRIPTION
 a3092874cdd8473c6acad56ec4db6bbe *NAMESPACE
-60f138c9f916ec71c0e74c61cb3dd422 *NEWS.md
+42439646975fbeb24b3372815641a4de *NEWS.md
 58f1ab4980f6f03d4dca605a872aca2e *R/RcppExports.R
 f56bd38a2b3202a08e1a73b9f75bf358 *R/apcf-package.R
 87c73b01a87c581cd2ab315dcd4d71c0 *R/dists.R
@@ -10,8 +10,8 @@ aa204b09e2c37075e1baf6acaea1a31c *R/fv_pcf.R
 734e0fd94eb818acda637f942628e281 *R/init.R
 64ea29ecbdea0f1e9f4701b255a3124a *R/pat2dists.R
 8dff3b10a2d245bd68308e906422a74c *R/plot.fv_pcf.R
-873e8024452dd4638da75c3de8185ad1 *README.md
-3b8d7186c9b660b9f95f30663c45e9ca *build/vignette.rds
+5722e3a10522961a18126f8e54d998f0 *README.md
+5f72ce2df790274b6a12db41d51dbc28 *build/vignette.rds
 54525d483018f935ceffe6b23966747b *cleanup
 34eaccc2df61008af709b41b53ba6cfb *configure
 5e14942f53bfb46da097ce036e44f76d *configure.ac
@@ -21,8 +21,8 @@ a2b2e28acb2204d627b3c99038dfb210 *data/sim_pat_clust.rda
 275cda921f2077a31dc0cc068ff7e372 *data/sim_pat_reg.rda
 e49df5b3399d681255094abc713f85bb *inst/CITATION
 cb6ee549a88edc62557610164e13ba06 *inst/doc/intro.R
-65f59d57498bfd7995a8d3caa29aa38c *inst/doc/intro.Rmd
-16cae6d0bef167af41c33121ad6d1d19 *inst/doc/intro.html
+daf03279b871cf2df94b66b047876844 *inst/doc/intro.Rmd
+247cf7741a25b51b1e80e3de1b68831e *inst/doc/intro.html
 14a135a85a6cc24bd9714156f986a5be *man/apcf-package.Rd
 88c64a307be5e6044d3278b4cf128703 *man/dists.Rd
 10b4fee89f9ac7f6daff22f494bd5580 *man/dists2pcf.Rd
@@ -36,11 +36,11 @@ c33a1e153f854435bc9291b4f9adfe49 *man/pat2dists.Rd
 adc2fba1a7a36b617329645392cf6777 *src/Makevars.in
 256d9e4d7f0d4c4f38d3c4fc828d3290 *src/Makevars.win
 f51e3ec50f28dc87003bf64ae9206421 *src/RcppExports.cpp
-89e73323d5eb94b4b6c903d4bfb0f344 *src/geos_stuff.cpp
+2ff29ba73ab89af1aeb72094318b6712 *src/geos_stuff.cpp
 f3ccde1c5794aef464fd73658020c15a *src/geos_stuff.h
 c1c94cbd67089dce5dc5f6f551e70699 *src/import_export.cpp
 3c89ece9c679cae0293a5df4ed4938e8 *src/import_export.h
 425af18bd4ebad462fbc31c53d070342 *src/pcf_envelope.cpp
 574f001c57a9e68df9916afd265c58ba *src/rand_dists_ratios.cpp
 a8b6b00bbd53ad5919cd1e7969861efb *tools/winlibs.R
-65f59d57498bfd7995a8d3caa29aa38c *vignettes/intro.Rmd
+daf03279b871cf2df94b66b047876844 *vignettes/intro.Rmd

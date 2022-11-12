@@ -1,3 +1,8 @@
+# apcf 0.3.0
+* switched to R's random number generator in C++ code
+* fixed CRANs M1mac vsnprintf() warning
+* changed maintainer email address
+
 # apcf 0.2.0
 * removed dependence on GDAL. `pat2dists()` now takes geometries as `WKB` (using GEOS capabilities). This reduced configure code and package size significantly.
 * added package 'wk' for checking WKBs and reading sfc-geometries if package 'sf' is available.

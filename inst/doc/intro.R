@@ -12,6 +12,6 @@ head(dists)
 pcf <- dists2pcf(dists, r=0.2, r_max=25, stoyan=0.15, n_rank=1)
 head(pcf)
 
-## ---- fig.width=4, fig.height=3.5---------------------------------------------
+## ----fig.width=4, fig.height=3.5----------------------------------------------
 plot(pcf)
 

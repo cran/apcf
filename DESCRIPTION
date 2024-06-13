@@ -1,6 +1,6 @@
 Package: apcf
 Title: Adapted Pair Correlation Function
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: 
   person(given="Robert", family="Nuske", role=c("aut", "cre"),
          email="robert.nuske@mailbox.org", 
@@ -20,13 +20,13 @@ Depends: R (>= 3.3.0)
 Imports: Rcpp (>= 0.12), wk (>= 0.6.0)
 Suggests: knitr, rmarkdown
 LinkingTo: Rcpp
-SystemRequirements: C++11, GEOS (>= 3.4.0)
+SystemRequirements: GEOS (>= 3.4.0)
 VignetteBuilder: knitr
 LazyData: true
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1
 NeedsCompilation: yes
-Packaged: 2022-11-11 10:30:36 UTC; rnuske
+Packaged: 2024-06-13 19:34:56 UTC; rnuske
 Author: Robert Nuske [aut, cre] (<https://orcid.org/0000-0001-9773-2061>)
 Maintainer: Robert Nuske <robert.nuske@mailbox.org>
 Repository: CRAN
-Date/Publication: 2022-11-12 01:20:05 UTC
+Date/Publication: 2024-06-13 20:10:02 UTC

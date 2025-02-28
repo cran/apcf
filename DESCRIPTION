@@ -1,6 +1,6 @@
 Package: apcf
 Title: Adapted Pair Correlation Function
-Version: 0.3.1
+Version: 0.3.2
 Authors@R: 
   person(given="Robert", family="Nuske", role=c("aut", "cre"),
          email="robert.nuske@mailbox.org", 
@@ -25,8 +25,8 @@ VignetteBuilder: knitr
 LazyData: true
 RoxygenNote: 7.3.1
 NeedsCompilation: yes
-Packaged: 2024-06-13 19:34:56 UTC; rnuske
+Packaged: 2025-02-28 21:23:26 UTC; rnuske
 Author: Robert Nuske [aut, cre] (<https://orcid.org/0000-0001-9773-2061>)
 Maintainer: Robert Nuske <robert.nuske@mailbox.org>
 Repository: CRAN
-Date/Publication: 2024-06-13 20:10:02 UTC
+Date/Publication: 2025-02-28 21:50:02 UTC
